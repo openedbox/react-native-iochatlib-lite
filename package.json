@@ -1,0 +1,19 @@
+{
+  "name": "react-native-iochatlib-lite",
+  "version": "1.0.0",
+  "description": "iochat rn lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:openedbox/react-native-iochatlib-lite.git"
+  },
+  "dependencies": {
+    "events": "1.0.1"
+  },
+  "author": "openedbox",
+  "license": "MIT",
+  "homepage": "https://github.com/openedbox/react-native-iochatlib-lite"
+}
